@@ -12,11 +12,13 @@
   "dependencies": {
     "@strapi/plugin-i18n": "4.11.4",
     "@strapi/plugin-users-permissions": "4.11.4",
+    "@strapi/provider-upload-cloudinary": "^4.13.2",
     "@strapi/strapi": "4.11.4",
     "@stripe/stripe-js": "^1.54.1",
     "@types/stripe": "^8.0.417",
     "better-sqlite3": "8.0.1",
     "crypto-js": "^4.1.1",
+    "pg": "^8.11.3",
     "strapi-stripe": "^3.4.1",
     "stripe": "^12.16.0"
   },
