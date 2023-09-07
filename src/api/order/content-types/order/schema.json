@@ -20,6 +20,9 @@
     },
     "paymentSucessful": {
       "type": "boolean"
+    },
+    "userId": {
+      "type": "biginteger"
     }
   }
 }
